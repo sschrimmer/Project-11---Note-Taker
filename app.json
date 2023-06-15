@@ -1,0 +1,32 @@
+{
+    "name": "Note Taker Supreme",
+    "description": "This app takes notes, retrieves notes, and deletes them as well.",
+    "keywords": [
+        "productivity",
+        "express",
+        "bootcamp",
+        "node",
+        "notes"
+    ],
+    "website": "null",
+    "repository": "https://github.com/cml2377/Note-Taker",
+    "success_url": "/",
+    "formation": {
+        "web": {
+            "quantity": 2,
+            "size": "Performance-M"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/stomita/heroku-buildpack-phantomjs"
+        }
+    ],
+    "environments": {
+        "test": {
+            "scripts": {
+                "test": "jest"
+            }
+        }
+    }
+}
