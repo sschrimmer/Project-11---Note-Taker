@@ -8,7 +8,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/cml2377/Note-Taker.git"
+      "url": "https://github.com/sschrimmer/Project-11---Note-Taker"
     },
     "keywords": [
       "application",
@@ -19,12 +19,12 @@
       "coding",
       "bootcamp"
     ],
-    "author": "Crystal Ly",
+    "author": "Steven Schrimmer",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/cml2377/Note-Taker/issues"
+      "url": "https://github.com/sschrimmer/Project-11---Note-Taker"
     },
-    "homepage": "https://github.com/cml2377/Note-Taker#readme",
+    "homepage": "https://github.com/sschrimmer/Project-11---Note-Taker",
     "dependencies": {
       "express": "^4.17.1",
       "jest": "^25.1.0",
