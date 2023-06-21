@@ -5,7 +5,7 @@
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
-const database = require("./db/db")
+const database = require("./DB/db")
 
 //======================================================================
 // This sets up the APP
